@@ -2,9 +2,6 @@
 ## III. Formai, formázási követelmények
 1. Alap betűtípus és méret: 12 pont magasságú, a szokásos Times New Roman, Arial vagy
 Calibrihez hasonló betűtípus (lehet talpas vagy talpatlan)
-
-1 Nem minden szakma várja el.
-
 − más betűtípus is használható például beillesztett forráskód formázásánál, címsoroknál,
 idézeteknél,
 − más betűméret az esztétikusság határán belül használható (pl. forráskód idézetnél kisebb,
