@@ -42,7 +42,6 @@ dokumentumba nem kell beilleszteni, sem kinyomtatni nem kell.
 1. A melléklet tartalmazza a szakdolgozat dokumentumát legalább egy univerzálisabb
 formátumban (pdf), de rajta lehet bármilyen egyéb formátumban is.
 2. Az elkészített szoftver/termék forrásanyaga. pl.:
-
 a. szoftverfejlesztő és -tesztelő technikus: A szoftver forráskódja, lefordított változata, a
 fordításhoz és a futtatáshoz szükséges szoftverek telepítője (amennyiben ingyenes és
 nem jellemző, hogy minden számítógépen fel van telepítve),
