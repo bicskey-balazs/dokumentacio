@@ -1,14 +1,33 @@
-1. Frontend:
-1.1. Bevezetés:
-A projekt keretében kifejlesztett weboldal egy modern kurzus-kezelő alkalmazás minden funkcióját implementálja.
+1. Frontend
+1.1. Bevezetés
+A projekt keretében kifejlesztett weboldal egy modern kurzus-kezelő alkalmazás szolgáltatásait implementálja egy modern design keretében.
 
-1.2. Technológiák:
+1.2. Technológiák
 - React
 - TypeScript
 - JSX
 - NeXT.js
 - Cypress
+- Tailwind CSS
 
-1.3. Oldalak:
-1.3.1. Főoldal:
-A főoldal bemutatja az alkalmazás legfőbb funkcióit, bejelentkezés nélkül
+1.3. Oldalak
+1.3.1. Főoldal
+A főoldal bemutatja az alkalmazás legfőbb funkcióit, bejelentkezés nélkül is.
+-- Kép 1 --
+A navigációs sávban elérhetjük az alkalmazás oldalait, illetve eljuthatunk a bejelentkezési oldalra is.
+-- Kép 2 --
+A kereső sávban szürhetjük kategóriák alapján a lentebb megjelenő kurzusokat.
+-- Kép 3 --
+A főoldalon az összes kurzust adatait kivonatosan megtekinthetjük, és belejentkezés után csatlakozhatunk is.
+
+1.3.2. Bejelentkezés
+-- Login img --
+A bejelentkezés oldalon a már regisztrált felhasználó bejelentkezhet.
+
+1.3.3. Regisztráló oldal
+-- Register img --
+A regisztrácíós oldalon létrehozhatunk egy új felhasználót, és képet is feltölthetünk
+
+1.3.4. Adminisztrácíós oldal
+-- Admin img --
+
