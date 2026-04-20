@@ -11,7 +11,7 @@ A projekt elérhető a jcloud kubernetes szerveren, a következő címen:
 [http://skillstree-vizsgaremek-frontend.jcloud.jedlik.cloud](http://skillstree-vizsgaremek-frontend.jcloud.jedlik.cloud)
 
 ### Lokális futtatás:
-A projekt lokális futtatásához a következő technológíák szükségesek:
+A projekt lokális futtatásához a következő technológiák szükségesek:
 1. Frontend:
     - [Node 20+](https://nodejs.org/en/download)
 2. Backend(Konténerizált)
