@@ -39,7 +39,7 @@ A projekt lokális futtatásához a következő technológiák szükségesek:
 1. Adminisztrátor fiók (Rendszergazda) Teljes hozzáférés.
     -	E-mail cím: ad@m.in
     -	Jelszó: admin123
-2. Általános Teszt Felhasználó (Tanuló / Oktató)Normális felhasználói élmény.
+2. Általános Teszt Felhasználó (Tanuló / Oktató) Normális felhasználói élmény.
     -	E-mail cím: us@e.r
     -   Jelszó: useruser
 
