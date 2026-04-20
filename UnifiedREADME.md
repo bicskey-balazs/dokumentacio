@@ -17,7 +17,7 @@ A projekt lokális futtatásához a következő technológiák szükségesek:
 2. Backend(Konténerizált)
     - [Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
 3. Backend(Lokális)
-    - [PostgresSQL](https://www.postgresql.org/download/linux/ubuntu/)
+    - [PostgreSQL](https://www.postgresql.org/download/linux/ubuntu/)
     - [Laravel 12+](https://laravel.com/docs/12.x/installation)
     - [Ubuntu alapú linux disztribúcíó](https://ubuntu.com/)
 
