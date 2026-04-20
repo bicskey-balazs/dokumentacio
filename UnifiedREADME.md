@@ -13,7 +13,7 @@ A projekt elérhető a jcloud kubernetes szerveren, a következő címen:
 ### Lokális futtatás:
 A projekt lokális futtatásához a következő technológíák szükségesek:
 1. Frontend:
-    - NPM 20+
+    - [Node 20+](https://nodejs.org/en/download)
 2. Backend(Konténerizált)
     - [Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
 3. Backend(Lokális)
@@ -44,6 +44,7 @@ A projekt lokális futtatásához a következő technológíák szükségesek:
     -   Jelszó: useruser
 
 ## Készítők:
-    - [Anda Kristóf](https://github.com/anda-kristof/)
-    - [Bicskey Balázs](https://github.com/bicskey-balazs)
-    - [Borbély Dominik Péter](https://github.com/borbely-dominik-peter)
+
+  - [Anda Kristóf](https://github.com/anda-kristof/)
+  - [Bicskey Balázs](https://github.com/bicskey-balazs)
+  - [Borbély Dominik Péter](https://github.com/borbely-dominik-peter)
