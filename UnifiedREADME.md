@@ -23,8 +23,10 @@ A projekt lokális futtatásához a következő technológiák szükségesek:
 
 ## Lokális project indítása:
 1. Frontend indítása:
+    - npm i
     - npm run dev
 2. Backend(Docker):
+    - composer telepítés, composer i
     - docker mappában -> "docker compose up" parancs kiadása
     - docker-setup.bat futtatása
     - alábbi két parancs kiadása a terminálban(amiben a docker-setup.bat futtott):
